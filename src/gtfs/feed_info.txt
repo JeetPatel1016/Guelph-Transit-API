@@ -1,0 +1,2 @@
+feed_publisher_name,feed_publisher_url,feed_lang,feed_start_date,feed_end_date,feed_version
+Guelph Transit,http://www.guelphtransit.ca,en,20250105,20250503,2025 January_20250109
