@@ -4,8 +4,12 @@ import routesRouter from "./routes/routes";
 import { createServer } from "http";
 import initializeSocket from "./socket";
 
+
 const app = express();
 const port = process.env.PORT || 3000;
+
+
+
 
 app.use(cors());
 
